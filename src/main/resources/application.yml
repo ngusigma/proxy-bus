@@ -1,0 +1,5 @@
+rabbit:
+  hostname: localhost
+  port: 61613
+  username: rabbitmq
+  password: rabbitmq
